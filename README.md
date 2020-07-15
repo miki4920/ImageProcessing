@@ -1,2 +1,2 @@
-# LanguageProcessing
- Library Used for Natural Language Processing
+# ImageProcessing
+Library Used for Image Processing
